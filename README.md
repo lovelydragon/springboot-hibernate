@@ -1,2 +1,2 @@
-# SBootDemo
+# SpringBootDemo
 spring boot + hiberneat 整合
